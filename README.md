@@ -16,7 +16,7 @@ Team Members: Craig Washington, Kelsie Hargita, Jeremy Hamley, Hannah Wang, Anki
   -  **Days from publishing to trending**    
 	- Over 70% of videos that trend do so within the first 3 days of being posted.
 
-  ![DTT](/jeremy_0706/Number of Days to Trend bar.png)
+  ![DTT](/jeremy_0706/daystotrend.png)
 
 
   -  **Time of day when video was posted**  
