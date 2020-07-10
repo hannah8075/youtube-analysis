@@ -16,7 +16,7 @@ Team Members: Craig Washington, Kelsie Hargita, Jeremy Hamley, Hannah Wang, Anki
   -  **Days from publishing to trending**    
 	- Over 70% of videos that trend do so within the first 3 days of being posted.
 
-![DTT](/jeremy_0706/"daystotrend.png)
+![DTT](/jeremy_0706/daystotrend.png)
 
 
   -  **Time of day when video was posted**  
@@ -40,18 +40,18 @@ Team Members: Craig Washington, Kelsie Hargita, Jeremy Hamley, Hannah Wang, Anki
   -  **Subscriber count of publisher**   
 	- A video posted on a channel with a higher subscriber count does not increase that videos likelihood to trend.
 
-![SUB](/output/.png)
+![SUB](/output/Sub_count.PNG)
 
 
   -  **Total number of videos posted by publisher**   
 	- A video posted on a channel with a higher video count does not increase that videos likelihood to trend.
 
-![NOVID](/output/vid_count.png)
+![NOVID](/output/vid_count.PNG)
 
 
   -  **Total views of publisher’s channel**    
 	- A video posted on a channel with a higher total view count does not increase that videos likelihood to trend.
 
-![NOVIEW](/output/view_count.png)
+![NOVIEW](/output/view_count.PNG)
 
 
